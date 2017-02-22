@@ -1,0 +1,12 @@
+M spktmpA1 1 test 0.941781
+M spktmpA2 0 test -0.0134164
+M spktmpA3 1 test 0.322747
+M spk01 0 test -0.758401
+M spk02 0 test -0.332038
+M spk03 1 test 0.0499816
+M spk04 0 test -0.23033
+M spk05 0 test -0.526449
+M spk06 0 test -0.47751
+M spk07 0 test -0.0384302
+M spk08 0 test -0.34389
+M spk09 0 test -0.77095
